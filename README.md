@@ -5,10 +5,10 @@ value_iteration.py
 Algorithm MDP_Value_Iteration
 
 Terminal states to be considered - no action could be further taken
---
+
 
 References:
-
+--
 mdp.py, utils.py, mdp.txt
 
 MDP in a grid-like environment (Value Iteration)
