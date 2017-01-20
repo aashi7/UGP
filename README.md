@@ -12,7 +12,6 @@ References:
 mdp.py, utils.py, mdp.txt
 
 MDP in a grid-like environment (Value Iteration)
-
 http://aima.cs.berkeley.edu/python/ 
 
 
@@ -20,11 +19,17 @@ http://aima.cs.berkeley.edu/python/
 maze1.pnm, maze2.pnm,maze_random_position.py
 
 POMDP in a maze
-
 http://jeremy.fix.free.fr/Softwares/pomdp.html
 
 
 --
 A simple particle filter example
-
 https://github.com/mjl/particle_filter_demo
+
+--
+Monte Carlo POMDPs
+http://robots.stanford.edu/papers/thrun.mcpomdp.pdf
+
+--
+Robot Planning in Partially Observable Continuous Domains
+http://www.roboticsproceedings.org/rss01/p29.pdf
