@@ -6,6 +6,10 @@ Algorithm MDP_Value_Iteration
 
 Terminal states to be considered - no action could be further taken
 
+Questions:
+
+Policy iteration for MDP
+https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-410-principles-of-autonomy-and-decision-making-fall-2010/lecture-notes/MIT16_410F10_lec23.pdf
 
 References:
 --
