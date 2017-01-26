@@ -1,5 +1,7 @@
 # UGP
 
+Experimenting using mdp.py 
+
 value_iteration.py
 
 Algorithm MDP_Value_Iteration
@@ -10,6 +12,10 @@ Questions:
 
 Policy iteration for MDP
 https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-410-principles-of-autonomy-and-decision-making-fall-2010/lecture-notes/MIT16_410F10_lec23.pdf
+
+Pruning of value function constraints in POMDP
+
+Is MDP/POMDP useful in real world applications?
 
 References:
 --
