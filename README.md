@@ -2,9 +2,7 @@
 
 Experimenting using mdp.py 
 
-value_iteration.py
-
-Algorithm MDP_Value_Iteration
+value_iteration.py | Algorithm MDP_Value_Iteration
 
 Terminal states to be considered - no action could be further taken
 
